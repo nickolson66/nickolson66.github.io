@@ -6,7 +6,7 @@ Welcome to Nicholas Olson's webpage.
 
 <a href="https://www.linkedin.com/in/nicholas-olson-148a37230/" target="_blank">Visit Nick's LinkedIn!</a>
 
-![Octocat] linkedin-profile.PNG
+![Octocat] [linkedin-profile.PNG](https://github.com/nickolson66/nickolson66.github.io/blob/main/linkedin-profile.PNG)
 
 Nicholas is currently a student at The University at Albany studying Cybersecurity, where he holds a 3.6 GPA.
 
