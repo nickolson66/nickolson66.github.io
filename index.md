@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to Nicholas Olson's webpage.
 
-[Link to another page](./another-page.html).
+<a href="https://www.linkedin.com/in/nicholas-olson-148a37230/" target="_blank">Visit Nick's LinkedIn!</a>
 
 There should be whitespace between paragraphs.
 
