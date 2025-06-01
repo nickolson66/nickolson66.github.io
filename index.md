@@ -6,6 +6,8 @@ Welcome to Nicholas Olson's webpage.
 
 <a href="https://www.linkedin.com/in/nicholas-olson-148a37230/" target="_blank">Visit Nick's LinkedIn!</a>
 
+![Octocat]
+
 Nicholas is currently a student at The University at Albany studying Cybersecurity, where he holds a 3.6 GPA.
 
 He held this GPA while working full time at Party City. He started as a temp through Spartech Inc., where he was able to surpass many more senior temps to be hired full time to a help desk role. 
