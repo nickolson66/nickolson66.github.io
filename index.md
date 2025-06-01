@@ -27,32 +27,24 @@ Nicholas created progress reports, keeping track of what tasks were completed an
 
 Nick led a small team in charge of the IT equipment in New Stores, Stores being relocated, closing stores and stores being remodeled
 
-- New Stores equipment needs to be ordered, a process that was streamlined by Nick to become more efficient -- avoiding missing equipment and minimizing a tech's time on site and their billable hours. This led to tens of thousands of dollars saved during the process.
-      - Employee would work with tech to ensure equipment was installed and tested, making sure store can open and take customers.
-- 
+- New and Relocated stores equipment needs to be ordered, a process that was streamlined by Nick to become more efficient -- avoiding missing equipment and minimizing a tech's time on site and their billable hours. This led to tens of thousands of dollars saved during the process. Employee would work with tech to ensure equipment was installed and tested, making sure store can open and take customers.
+- Stores would get remodeled overnight - receiving cosmetic updates to counters or other fixtures in stores. To do this, POS systems and store PC's needed to be taken offline. Nick worked with techs -- sometimes 8 at a time -- to make sure stores were ready to take customers once new fixtures were installed.
+- Nick was also in charge of all of the telecom billing in the company. Each month, he would audit and pay monthly invoices from companies like Verizon, T-Mobile, 8x8 and Comcast to make sure invoices were paid correctly and on time. 
 
 ### Help Desk Technician
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Contracted to Party City through Spartech Inc., Nick quickly seperated himself from other temps and received a full time job offer from Party City. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Here he fielded calls from stores, quickly and efficiently solving problems at stores so they could continue taking customers. This included fixing point-of-sale machines, PCs, Microsoft Office bugs, Active Directory issues, Network connection problems and mobile devices.
 
-#### Header 4
+He gained other responsibilities, like tracking of inventory that was sent from vendors to stores. Doing this ensured equipment would get back to stores, avoiding extra fees and saving the company more money. 
+#### Skills
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Python
+*   HTML
+*   SQL
+*   Excel
+*   Active Directory
 
 ##### Header 5
 
