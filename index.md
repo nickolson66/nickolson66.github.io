@@ -6,7 +6,9 @@ Welcome to Nicholas Olson's webpage.
 
 <a href="https://www.linkedin.com/in/nicholas-olson-148a37230/" target="_blank">Visit Nick's LinkedIn!</a>
 
-![Octocat] (linkedin-profile.PNG)
+### Small Image
+
+![LinkedIn] (linkedin-profile.PNG)
 
 Nicholas is currently a student at The University at Albany studying Cybersecurity, where he holds a 3.6 GPA.
 
@@ -48,54 +50,6 @@ He gained other responsibilities, like tracking of inventory that was sent from 
 *   Excel
 *   Active Directory
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
