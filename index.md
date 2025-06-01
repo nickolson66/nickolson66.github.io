@@ -14,7 +14,7 @@ He held this GPA while working full time at Party City. He started as a temp thr
 
 There he went onto be promoted to a Specialist, Store Support position and Project Manager. 
 
-Before joining the IT industry and attending college, Nicholas played Tom Clancy's Rainbow Six Siege professionally for 5 years.
+Before joining the IT industry and attending college, Nicholas played Tom Clancy's Rainbow Six Siege professionally for 5 years. In his free time, he loves spending time with his family and friends. He is an avid lover of movies and writes screenplays in his spare time, he was a quarterfinalist in the ScreenCraft Drama Competition for his screenplay <i> Luna <i>
 
 # Project Manager
 
