@@ -6,21 +6,32 @@ Welcome to Nicholas Olson's webpage.
 
 <a href="https://www.linkedin.com/in/nicholas-olson-148a37230/" target="_blank">Visit Nick's LinkedIn!</a>
 
-There should be whitespace between paragraphs.
+Nicholas is currently a student at The University at Albany studying Cybersecurity, where he holds a 3.6 GPA.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+He held this GPA while working full time at Party City. He started as a temp through Spartech Inc., where he was able to surpass many more senior temps to be hired full time to a help desk role. 
 
-# Header 1
+There he went onto be promoted to a Specialist, Store Support position and Project Manager. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Before joining the IT industry and attending college, Nicholas played Tom Clancy's Rainbow Six Siege professionally for 5 years.
 
-## Header 2
+# Project Manager
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+During his time at Party City, Nick was given the opportunity to lead a team of 8 employees to replace all of the pin pad terminals in all Party City Stores. 
 
-### Header 3
+These employees reported to him while working with techs to ensure these machines were replaced before the stores opened, making sure to not disrupt regular business operations.
+
+Nicholas created progress reports, keeping track of what tasks were completed and which were outstanding.
+
+
+## Specialist, Store Support
+
+Nick led a small team in charge of the IT equipment in New Stores, Stores being relocated, closing stores and stores being remodeled
+
+- New Stores equipment needs to be ordered, a process that was streamlined by Nick to become more efficient -- avoiding missing equipment and minimizing a tech's time on site and their billable hours. This led to tens of thousands of dollars saved during the process.
+      - Employee would work with tech to ensure equipment was installed and tested, making sure store can open and take customers.
+- 
+
+### Help Desk Technician
 
 ```js
 // Javascript code with syntax highlighting.
